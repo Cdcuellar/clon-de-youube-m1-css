@@ -7,6 +7,16 @@
     padding:0;
     box-sizing:border-box;
 }
+nav ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+    margin-top:15px;
+}
+
+nav ul li{
+    margin:0;
+}
 
 /* =========================
    GENERAL
